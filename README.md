@@ -11,4 +11,6 @@ http://docs.nativescript.org/angular/start/quick-setup
 
 ```ruby -e "$(curl -fsSL https://www.nativescript.org/setup/mac)"```
 
+## Running iOS
+
 ```tns run ios```
