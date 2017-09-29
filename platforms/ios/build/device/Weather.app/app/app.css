@@ -1,0 +1,23 @@
+ActionBar {
+  background-color: black;
+}
+
+.page {
+  display: flex;
+  justify-content: center;
+
+  height: 100%;
+  width: 100%;
+
+  text-align: center;
+  background-color: black;
+  color: whitesmoke;
+}
+
+.page > .current-temp {
+  font-size: 100rem;
+}
+
+.page > .current-text {
+  font-size: 10rem;
+}

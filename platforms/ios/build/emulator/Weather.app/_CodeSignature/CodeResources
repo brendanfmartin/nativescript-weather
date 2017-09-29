@@ -62,7 +62,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		CtiukYIgxiEtRiF3vHve+wvp8cY=
+		9XlBsPmceN4+7EwvGtCPgjN7S3c=
 		</data>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
 		<data>
@@ -158,7 +158,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		W30YLCNxN8Ut473O6r2sacB/yeo=
+		z5ctO6m38W+UcKWp5YqCFTlax5Y=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -166,7 +166,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		XBrvfbQc4hQn3qqmVI6N1CNcdz8=
+		g5bHWEae/uofQZ9MFnWp08xOafU=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -198,11 +198,11 @@
 		</data>
 		<key>app/app.module.js</key>
 		<data>
-		roV+P6BZCpWFtSV8jO3gUsvt9es=
+		C1UdCItMGqrCQJnzC2lSFqPUTj8=
 		</data>
 		<key>app/app.module.ts</key>
 		<data>
-		b+nZNjXof8aW2jtYrYWfgTjMyHQ=
+		0UA3ky7zvYcBnim/luXNeyJIKj0=
 		</data>
 		<key>app/app.routing.js</key>
 		<data>
@@ -274,15 +274,31 @@
 		</data>
 		<key>app/pages/weather.component.html</key>
 		<data>
-		RfCdoVNiaEKotbZXr6v6wJnqdBo=
+		Ze6siyeMSk8W0vDKDapFS1NToqw=
 		</data>
 		<key>app/pages/weather.component.js</key>
 		<data>
-		/LwKE5PUuTIniJEpW0TRYlH+8nI=
+		+ttfWRj37byDCB40r9Us6qDHkRE=
 		</data>
 		<key>app/pages/weather.component.ts</key>
 		<data>
-		vM0PaaMn7SBBFkjFwkoTIum+G/Y=
+		4sRNbSujuUwEn5aFKX7uwg341GU=
+		</data>
+		<key>app/services/location.service.js</key>
+		<data>
+		6Jw/8Zh1O2MrouQqzwJOz+t/1Ec=
+		</data>
+		<key>app/services/location.service.ts</key>
+		<data>
+		dhubxxNzmiXw3Lf3/rNn4mBH6rw=
+		</data>
+		<key>app/services/weather.service.js</key>
+		<data>
+		n5NGSBk+khk4yXf06kwZC7xlOKw=
+		</data>
+		<key>app/services/weather.service.ts</key>
+		<data>
+		Ydj89PcKu42aWHFKXgPtzAMlXxU=
 		</data>
 		<key>app/tns_modules/@angular/animations/@angular/animations.es5.js</key>
 		<data>
@@ -570,7 +586,7 @@
 		</data>
 		<key>app/tns_modules/@angular/animations/package.json</key>
 		<data>
-		w010Q5je/u44VOZaNKlEz/qaXeE=
+		6vRG9MfwuCRM/hoanFXVJ28MAIE=
 		</data>
 		<key>app/tns_modules/@angular/animations/public_api.d.ts</key>
 		<data>
@@ -686,7 +702,7 @@
 		</data>
 		<key>app/tns_modules/@angular/common/package.json</key>
 		<data>
-		klc4BmtSWV9ZEgxSXqycTly6Tdc=
+		7BcdlU6Zo9ljoC2xeP1EzZNH00Y=
 		</data>
 		<key>app/tns_modules/@angular/common/public_api.d.ts</key>
 		<data>
@@ -942,7 +958,7 @@
 		</data>
 		<key>app/tns_modules/@angular/compiler/package.json</key>
 		<data>
-		uuo9Mo8vuCSr8mNyijFKHElwUKg=
+		kT89GpmBC3kE/YoR1FMLKTyU8Ss=
 		</data>
 		<key>app/tns_modules/@angular/compiler/src/aot/compiler.d.ts</key>
 		<data>
@@ -1802,7 +1818,7 @@
 		</data>
 		<key>app/tns_modules/@angular/core/package.json</key>
 		<data>
-		VS+YWh0Kn5Od1DLcU3wn+dkECMA=
+		OwKhv6lNmAwlC98f6GRFiciklac=
 		</data>
 		<key>app/tns_modules/@angular/core/public_api.d.ts</key>
 		<data>
@@ -2306,7 +2322,7 @@
 		</data>
 		<key>app/tns_modules/@angular/forms/package.json</key>
 		<data>
-		AEgPmaFiXEPgm2NMlBM3rgaYBXU=
+		KfTHiDW7OZNpSXoaooQyTdfJ6Vc=
 		</data>
 		<key>app/tns_modules/@angular/forms/public_api.d.ts</key>
 		<data>
@@ -2530,7 +2546,7 @@
 		</data>
 		<key>app/tns_modules/@angular/http/package.json</key>
 		<data>
-		qOyip8Fwr7Drab88S0PyEq+MKOM=
+		EaLo9Wbs4IluuaxvauQDWldHssM=
 		</data>
 		<key>app/tns_modules/@angular/http/public_api.d.ts</key>
 		<data>
@@ -2790,7 +2806,7 @@
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/package.json</key>
 		<data>
-		Dbpfaa6MREObLtK/PE+CWLHSayI=
+		6LvU4D23/YutUTcSAXArStvOi3w=
 		</data>
 		<key>app/tns_modules/@angular/platform-browser/platform-browser.d.ts</key>
 		<data>
@@ -3070,7 +3086,7 @@
 		</data>
 		<key>app/tns_modules/@angular/router/package.json</key>
 		<data>
-		A7EaraY5SS7QZo3gNDDRki/X+SI=
+		+mgiQx+Yno10Mmsog3GJRNQf3sA=
 		</data>
 		<key>app/tns_modules/@angular/router/public_api.d.ts</key>
 		<data>
@@ -3618,7 +3634,7 @@
 		</data>
 		<key>app/tns_modules/nativescript-angular/package.json</key>
 		<data>
-		KbOE0dgk8y4MoKgEIVZqFLdQhWY=
+		LmD9JtGbKTkHl12Np9K+QynRQAk=
 		</data>
 		<key>app/tns_modules/nativescript-angular/platform-common.d.ts</key>
 		<data>
@@ -4030,7 +4046,7 @@
 		</data>
 		<key>app/tns_modules/nativescript-theme-core/package.json</key>
 		<data>
-		tEXM6vXA7KK5V6JRd1OjxsEuSys=
+		Dt+eIaSEBiVtdjOdT32vrfK4xsA=
 		</data>
 		<key>app/tns_modules/nativescript-theme-core/readme.md</key>
 		<data>
@@ -4438,7 +4454,7 @@
 		</data>
 		<key>app/tns_modules/reflect-metadata/package.json</key>
 		<data>
-		TJmV45yMYbpSACEtTd25Z2yhRsc=
+		sCUOSAwlZTC2yKZNlUrAAkL7Fxc=
 		</data>
 		<key>app/tns_modules/reflect-metadata/reflect-metadata.d.ts</key>
 		<data>
@@ -8206,7 +8222,7 @@
 		</data>
 		<key>app/tns_modules/rxjs/package.json</key>
 		<data>
-		4VYfpMJ2Z/iZ9P1kKHwCmrLnQ+Q=
+		lRGuHoZj+Fw0IFJP2+CKf8Fe5hI=
 		</data>
 		<key>app/tns_modules/rxjs/scheduler/Action.d.ts</key>
 		<data>
@@ -10558,7 +10574,7 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/package.json</key>
 		<data>
-		fDHnLf7suZDHcL+1cHBIqlLB+4Q=
+		+9dNGUwmxSrygO/AEiwAKcGbKfg=
 		</data>
 		<key>app/tns_modules/tns-core-modules/platform/package.json</key>
 		<data>
@@ -11638,15 +11654,15 @@
 		</data>
 		<key>app/tns_modules/zone.js/package.json</key>
 		<data>
-		VekVV26yN325GmVoQ9bZaqovqZY=
+		BqXJpVMXJJlak1DG7XWWsKy/vSc=
 		</data>
 		<key>app/types/Location.js</key>
 		<data>
-		QqxDM8Lx06ytCp+ytplwjN+rscY=
+		DVVZDOO3jxdE8Wbdq5AhaDBGFEM=
 		</data>
 		<key>app/types/Location.ts</key>
 		<data>
-		Syv2Cb74MuiZ/jTU01IL48qIZZk=
+		W8ljdo5cqB27joFbIsEUKOsu/CI=
 		</data>
 		<key>app/types/Unit.js</key>
 		<data>
@@ -11838,11 +11854,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CtiukYIgxiEtRiF3vHve+wvp8cY=
+			9XlBsPmceN4+7EwvGtCPgjN7S3c=
 			</data>
 			<key>hash2</key>
 			<data>
-			9gJctzC5Cm76hCnPdDGhChc35oauP1wWxXGhMBdWDSE=
+			btUsR54Jw2el+qpHLXv2mEuYlRpnWf1gRIyPqFbkx5g=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
@@ -12091,11 +12107,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			W30YLCNxN8Ut473O6r2sacB/yeo=
+			z5ctO6m38W+UcKWp5YqCFTlax5Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ao4DeIjOPOsAfHI3sRZ51nsEfxCW8weY8Kxl0fC2eSI=
+			HvSl/tTEph4QVpjyY+219JpZVXqd/rGA51usqhY8n3U=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -12113,11 +12129,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XBrvfbQc4hQn3qqmVI6N1CNcdz8=
+			g5bHWEae/uofQZ9MFnWp08xOafU=
 			</data>
 			<key>hash2</key>
 			<data>
-			wNnAoWzdxlI2j9tW63Mzgv9Yeogbnyc1Sn+bSz4fdDo=
+			kTAZTdwGVgTVJsa0DbFdpvgLTp4dGtp29LQ118pGn14=
 			</data>
 		</dict>
 		<key>app/LICENSE</key>
@@ -12190,22 +12206,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			roV+P6BZCpWFtSV8jO3gUsvt9es=
+			C1UdCItMGqrCQJnzC2lSFqPUTj8=
 			</data>
 			<key>hash2</key>
 			<data>
-			L/ThV2JAoDWE2KVS6F9rYeig0ggY3ZEN3mKYkqGI84Y=
+			p4fwioD2aENgZoxxSUCnQVjaHoAYJleAo+1TJP8iZI8=
 			</data>
 		</dict>
 		<key>app/app.module.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			b+nZNjXof8aW2jtYrYWfgTjMyHQ=
+			0UA3ky7zvYcBnim/luXNeyJIKj0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Q5h4wrkwXIdX3jU3cFwCvhyvPbgueH0TOEUpK7tnRGs=
+			/VnXR3tA7iDSOj8WXK1ECB4hPnmmZgXt2iNF46bML2M=
 			</data>
 		</dict>
 		<key>app/app.routing.js</key>
@@ -12399,33 +12415,77 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RfCdoVNiaEKotbZXr6v6wJnqdBo=
+			Ze6siyeMSk8W0vDKDapFS1NToqw=
 			</data>
 			<key>hash2</key>
 			<data>
-			uoP/4p+V7Dwh9bnPtuA/ASyxYs90Hl3FXjony/kzrTw=
+			0EARpCf/GFtAWpIbSZpBCy1o59p6LTTp7pDIqY7gbw0=
 			</data>
 		</dict>
 		<key>app/pages/weather.component.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/LwKE5PUuTIniJEpW0TRYlH+8nI=
+			+ttfWRj37byDCB40r9Us6qDHkRE=
 			</data>
 			<key>hash2</key>
 			<data>
-			OBBOWRfTXO3xf44TZYwnVlOo7qN8z5Ol/+sHKpI/WUI=
+			aK1lh6C+VbWKPjiVcXnXbF3C8xFeN1nRUJgkXLDGJQw=
 			</data>
 		</dict>
 		<key>app/pages/weather.component.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vM0PaaMn7SBBFkjFwkoTIum+G/Y=
+			4sRNbSujuUwEn5aFKX7uwg341GU=
 			</data>
 			<key>hash2</key>
 			<data>
-			oIstY6RIxh05oQWKLNSYkZRor7qOXgBvfvRTx7oqsjs=
+			/RZYah1RKT2uHY0J/XzhFI38iMBGbcwNf8dUmKIhU4Y=
+			</data>
+		</dict>
+		<key>app/services/location.service.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6Jw/8Zh1O2MrouQqzwJOz+t/1Ec=
+			</data>
+			<key>hash2</key>
+			<data>
+			WIOlFZ42wIMLxehiQvW8SX1hFJKA+c2cadAEBiy6sJE=
+			</data>
+		</dict>
+		<key>app/services/location.service.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dhubxxNzmiXw3Lf3/rNn4mBH6rw=
+			</data>
+			<key>hash2</key>
+			<data>
+			0otShry+EDCNtClnJLuN/4w5p7/nRMumdnRTpYD9ocg=
+			</data>
+		</dict>
+		<key>app/services/weather.service.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			n5NGSBk+khk4yXf06kwZC7xlOKw=
+			</data>
+			<key>hash2</key>
+			<data>
+			JZA+T8YX8Sh1qnr80ZWTOxX4qCdX/Df5M2lVj447KCc=
+			</data>
+		</dict>
+		<key>app/services/weather.service.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ydj89PcKu42aWHFKXgPtzAMlXxU=
+			</data>
+			<key>hash2</key>
+			<data>
+			yrus4nWqEDP6O9JihGv8n2tk09WP05F5VmHNejnwNjc=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/animations/@angular/animations.es5.js</key>
@@ -13213,11 +13273,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			w010Q5je/u44VOZaNKlEz/qaXeE=
+			6vRG9MfwuCRM/hoanFXVJ28MAIE=
 			</data>
 			<key>hash2</key>
 			<data>
-			n1ymixeowmAZ87FRrIAam7aNb5Szv21YeXfaAW/rFuI=
+			gQfrXvGSOjj7raDzHBIyFGvVwmfy2PcqCWblaYt+hD0=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/animations/public_api.d.ts</key>
@@ -13532,11 +13592,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			klc4BmtSWV9ZEgxSXqycTly6Tdc=
+			7BcdlU6Zo9ljoC2xeP1EzZNH00Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			DIE3Fobkx3MvQ1XpswOC5LVgxEe7woMLhLzpAg/9LBc=
+			5/UOOsLlour14vdoVvIHAPVQrB7xuDupP7lLl0uQikw=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/common/public_api.d.ts</key>
@@ -14236,11 +14296,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uuo9Mo8vuCSr8mNyijFKHElwUKg=
+			kT89GpmBC3kE/YoR1FMLKTyU8Ss=
 			</data>
 			<key>hash2</key>
 			<data>
-			HwTRbajlegf4CNGBCp58pPKjM89r5TYMibbW61ZimyE=
+			M7LadmcUWkK0llnIsES6/oXYZkOAShLuaWeHIViJ7lY=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/compiler/src/aot/compiler.d.ts</key>
@@ -16601,11 +16661,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VS+YWh0Kn5Od1DLcU3wn+dkECMA=
+			OwKhv6lNmAwlC98f6GRFiciklac=
 			</data>
 			<key>hash2</key>
 			<data>
-			WSWE2ImiFu7ohVswOFzFcB5uJb4Ak/U60OPI6W9As0A=
+			qEu1WL0icRBDznSdS6eBipaZRmTvX81NMpj/k81uOLM=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/core/public_api.d.ts</key>
@@ -17987,11 +18047,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AEgPmaFiXEPgm2NMlBM3rgaYBXU=
+			KfTHiDW7OZNpSXoaooQyTdfJ6Vc=
 			</data>
 			<key>hash2</key>
 			<data>
-			JcQpQTZNsBGrKth00mKcJ9jjbVj9BeZIQc+awAWqyhE=
+			WDcHBC8VNYnMxH23EkqeV1b0X9zkwugzZLmYSfX3d6c=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/forms/public_api.d.ts</key>
@@ -18603,11 +18663,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qOyip8Fwr7Drab88S0PyEq+MKOM=
+			EaLo9Wbs4IluuaxvauQDWldHssM=
 			</data>
 			<key>hash2</key>
 			<data>
-			3Ll38En8OQkA3edeYjRc7M9nHZJrUFCFwUEp+GcOrnU=
+			s/G0fkok0kvI3hZOgClsvodLxEzxyD0mFP9I5ylR7Cg=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/http/public_api.d.ts</key>
@@ -19318,11 +19378,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Dbpfaa6MREObLtK/PE+CWLHSayI=
+			6LvU4D23/YutUTcSAXArStvOi3w=
 			</data>
 			<key>hash2</key>
 			<data>
-			yI0VG9k5LvavzYTw0bguvuAesjz0iuAEpBPOnJDgPII=
+			NbYlwS4ucmoqz/hXmFch+9aRGD/u2xT5l6CqyRs6o20=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/platform-browser/platform-browser.d.ts</key>
@@ -20088,11 +20148,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			A7EaraY5SS7QZo3gNDDRki/X+SI=
+			+mgiQx+Yno10Mmsog3GJRNQf3sA=
 			</data>
 			<key>hash2</key>
 			<data>
-			GrrZTBRbESronfrLtxgFVJlVjNX19zUK0osEGomgvW4=
+			ybh3qyq5MI94d0dbe7P6f96sJ8Wcc2vHojk0ua8+uPg=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/router/public_api.d.ts</key>
@@ -21595,11 +21655,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KbOE0dgk8y4MoKgEIVZqFLdQhWY=
+			LmD9JtGbKTkHl12Np9K+QynRQAk=
 			</data>
 			<key>hash2</key>
 			<data>
-			M32xIh4S2Arrm//n7JTsaw6Kb8p90mmqJSvZM3fQbBE=
+			jJSchJoDzIP+XvC83MA3GFwPEEx9fpq0M82uCPHh1cs=
 			</data>
 		</dict>
 		<key>app/tns_modules/nativescript-angular/platform-common.d.ts</key>
@@ -22728,11 +22788,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tEXM6vXA7KK5V6JRd1OjxsEuSys=
+			Dt+eIaSEBiVtdjOdT32vrfK4xsA=
 			</data>
 			<key>hash2</key>
 			<data>
-			oZZH2dEQiuuuu8XNt4Vv086CASiE5FyUB5HFCC5ry9U=
+			tL+rTzvhgkLLogXbHH+DTJLE6bvNWCm8JCRYG1zAvdI=
 			</data>
 		</dict>
 		<key>app/tns_modules/nativescript-theme-core/readme.md</key>
@@ -23850,11 +23910,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TJmV45yMYbpSACEtTd25Z2yhRsc=
+			sCUOSAwlZTC2yKZNlUrAAkL7Fxc=
 			</data>
 			<key>hash2</key>
 			<data>
-			2R4GR7AP8ILq/6p4+8dBBA51tXEE/G5pkI2U8mpvWN4=
+			l5fIjckgGS35Yp9U/FJeZ8arGyWpTzWa9E+JbP/eT9k=
 			</data>
 		</dict>
 		<key>app/tns_modules/reflect-metadata/reflect-metadata.d.ts</key>
@@ -34212,11 +34272,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4VYfpMJ2Z/iZ9P1kKHwCmrLnQ+Q=
+			lRGuHoZj+Fw0IFJP2+CKf8Fe5hI=
 			</data>
 			<key>hash2</key>
 			<data>
-			PgjeNJakxrFZKxCSCmO+v/Vcq0Q1K01dKUuPIprzqtI=
+			TsiGcRO+0k8unXRfNw9CpveocZ6YaxfUrhmazLjVzks=
 			</data>
 		</dict>
 		<key>app/tns_modules/rxjs/scheduler/Action.d.ts</key>
@@ -40680,11 +40740,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fDHnLf7suZDHcL+1cHBIqlLB+4Q=
+			+9dNGUwmxSrygO/AEiwAKcGbKfg=
 			</data>
 			<key>hash2</key>
 			<data>
-			0bqSYUmLVECKeLap7zz2IDrlso4xM4LthxXWDTYD5No=
+			rEA8rGZN+4NYytPTozbhdd6C2vkKeoPA4oDhaeSsytU=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/platform/package.json</key>
@@ -43650,33 +43710,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VekVV26yN325GmVoQ9bZaqovqZY=
+			BqXJpVMXJJlak1DG7XWWsKy/vSc=
 			</data>
 			<key>hash2</key>
 			<data>
-			PJgIxoFfelH6yoyALbsu2a3kW0hWIeKSbv+H6gpYxAQ=
+			lpRwLi/w8OvvpJcrkbxIeQ725jnFoywIorTXjp42seo=
 			</data>
 		</dict>
 		<key>app/types/Location.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QqxDM8Lx06ytCp+ytplwjN+rscY=
+			DVVZDOO3jxdE8Wbdq5AhaDBGFEM=
 			</data>
 			<key>hash2</key>
 			<data>
-			lrni4zUzS+ziixN1WKzxZGTmdr5IZTNPXrOFgpQ6oYw=
+			9sEcM8LAef7eqQ/TV+GVcpzCMsQOmLtT3+XI/m/DufE=
 			</data>
 		</dict>
 		<key>app/types/Location.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Syv2Cb74MuiZ/jTU01IL48qIZZk=
+			W8ljdo5cqB27joFbIsEUKOsu/CI=
 			</data>
 			<key>hash2</key>
 			<data>
-			3awxAgmG1MYIw8ave2v2Y8XjFhA08u01Rp6oJrRwb+0=
+			6eowIzsqOTivw4AERNWxysuKrKBARsnk2DdGfYw8AW8=
 			</data>
 		</dict>
 		<key>app/types/Unit.js</key>

@@ -10,7 +10,7 @@
         "spec": ">=3.1.0 <3.2.0",
         "type": "range"
       },
-      "/Users/Brendan.Martin/Sites/personal/nativescript/Weather/node_modules/tns-template-hello-world-ng"
+      "/Users/Brendan.Martin/Sites/personal/nativescript/Weather"
     ]
   ],
   "_from": "tns-core-modules@>=3.1.0 <3.2.0",
@@ -38,13 +38,13 @@
     "type": "range"
   },
   "_requiredBy": [
-    "/tns-template-hello-world-ng"
+    "/"
   ],
   "_resolved": "https://registry.npmjs.org/tns-core-modules/-/tns-core-modules-3.1.1.tgz",
   "_shasum": "7b389c42dd6c10db2d1adfbc6c91031703e50dd5",
   "_shrinkwrap": null,
   "_spec": "tns-core-modules@~3.1.0",
-  "_where": "/Users/Brendan.Martin/Sites/personal/nativescript/Weather/node_modules/tns-template-hello-world-ng",
+  "_where": "/Users/Brendan.Martin/Sites/personal/nativescript/Weather",
   "dependencies": {
     "tns-core-modules-widgets": "3.1.1"
   },

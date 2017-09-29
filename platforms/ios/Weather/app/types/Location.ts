@@ -28,3 +28,8 @@ export class Location {
   SupplementalAdminAreas: any;
   DataSets: any[];
 }
+
+export class LatLong {
+  Latitude: number;
+  Longitude: number;
+}
